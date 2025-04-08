@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently experimenting with Copilot
+Teaching @ EPITA 
+
 <!--
 **obenguerah/obenguerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
