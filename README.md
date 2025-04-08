@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Currently experimenting with Copilot
+
 Teaching @ EPITA 
 
 <!--
